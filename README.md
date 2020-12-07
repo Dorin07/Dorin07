@@ -39,8 +39,8 @@
 <img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img align="left" alt="Java" width="26px" src="https://www.meme-arsenal.com/memes/aedccb7b888468d35e9855e503b8e706.jpg" />
-<img align="left" alt="Dart" width="26px" src="https://dwglogo.com/wp-content/uploads/2018/03/Dart_logo.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
+<img align="left" alt="Dart" width="26px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
 
 <br />
 <br />
