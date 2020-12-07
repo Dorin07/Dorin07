@@ -1,4 +1,4 @@
-### Hey, I'm Dorin - Welcome to my github 👋
+## Hey, I'm Dorin - Welcome to my github 👋
 
 ## I'm a High-School Student, Programming lover, Developer, and Amateur musician!!
 
