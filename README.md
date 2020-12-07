@@ -41,32 +41,32 @@
 
 ---
 
-<!-- <details>
+<details>
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. ❌ Closed PR [#14](https://github.com/Dorin07/Dorin07/pull/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
+2. 🗣 Commented on [#14](https://github.com/Dorin07/Dorin07/issues/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
+3. ❌ Closed PR [#7](https://github.com/Dorin07/Dorin07/pull/7) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
+4. 🎉 Merged PR [#6](https://github.com/Dorin07/Dorin07/pull/6) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
-</details> -->
+</details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dorin07&show_icons=true&hide_border=true" />
+  <img align="left" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.Dorin07.vercel.app/api?username=Dorin07&show_icons=true&hide_border=true" />
 
 </details>
 
-<!-- [website]: https://codeSTACKr.com
+<!-- [website]: https://Dorin07.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[twitter]: https://twitter.com/Dorin07
+[youtube]: https://youtube.com/Dorin07
+[instagram]: https://instagram.com/Dorin07
+[linkedin]: https://linkedin.com/in/Dorin07
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
