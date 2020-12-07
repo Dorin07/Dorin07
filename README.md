@@ -23,7 +23,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 <img align="left" alt="FireBase" width="26px" src="https://img.icons8.com/color/452/firebase.png" />
 <img align="left" alt="PhotoShop" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Photoshop_CC_icon.png/492px-Photoshop_CC_icon.png" />
-<img align="left" alt="PremierePro" width="26px" src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Premiere_pro-512.png" />
+<img align="left" alt="PremierePro" width="28px" src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Premiere_pro-512.png" />
 
 <br />
 
