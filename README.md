@@ -6,15 +6,10 @@
 - 🌱 I’m currently learning app development
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals:
-  1️⃣ Learn app development 😁
-<br />
-  2️⃣ Learn ML and AI 🤓
-<br />
-  3️⃣ Learn embedded with arduino 🤖
-<br />
-  4️⃣ Improve my software skills 😎 
-<br />  
-            
+  - 1️⃣ Learn app development 😁
+  - 2️⃣ Learn ML and AI 🤓
+  - 3️⃣ Learn embedded with arduino 🤖
+  - 4️⃣ Improve my software skills 😎 
 - ⚡ I love programming and music 🎺 & 💻
 
 <br />
