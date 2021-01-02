@@ -5,11 +5,12 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning app development
 - 👯 I’m looking to improve myself
-- 🥅 2021 Goals:✨
+- 🥅 2021 Goals:
   - Learn app development 😁
   - Learn ML and AI 🤓
   - Learn embedded with arduino 🤖
   - Improve my software skills 😎 
+  - Minimum 1 commit/day 📤
 - ⚡ I love programming and music 🎺 & 💻
 
 <br />
