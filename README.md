@@ -45,7 +45,7 @@
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="Java" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" />
-<img align="left" alt="Dart" width="26px" src="https://www.kindpng.com/picc/m/176-1766554_dart-programming-language-logo-hd-png-download.png" />
+<img align="left" alt="Dart" width="26px" src="https://w7.pngwing.com/pngs/666/815/png-transparent-dart-google-chrome-web-application-flutter-darts-blue-angle-triangle.png" />
 
 <br />
 <br />
