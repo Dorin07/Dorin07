@@ -2,7 +2,6 @@
 
 ## I'm a High-School Student, Programming lover, Developer, and Amateur musician!!
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning app development
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals:
