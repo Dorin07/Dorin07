@@ -8,7 +8,7 @@
   - Learn app development 😁
   - Learn ML and AI 🤓
   - Learn embedded with arduino 🤖
-  - Improve my software skill 😎 
+  - Improve my software skills 😎 
   - Minimum 1 commit/day 📤
 - ⚡ I love programming and music 🎺 & 💻
 
