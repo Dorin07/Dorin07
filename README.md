@@ -2,10 +2,11 @@
 
 ### I'm a High-School Student, Programming lover, Developer, and Amateur musician!!
 
-- 🌱 I’m currently learning app development
+- 🌱 I’m currently learning 
+  - web development 
+  - algorithms 
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals: ⚽
-  - Learn app development 😁
   - Learn web development with react and javascript 😄
   - Learn ML and AI 🤓
   - Learn embedded with arduino 🤖
