@@ -7,7 +7,7 @@
   - algorithms 
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals: ⚽
-  - Learn web development with react and javascript 😄
+  - Learn web development with react and javascript ⚡
   - Learn ML and AI 🤓
   - Learn embedded with arduino 🤖
   - Improve my software skills 😎 
