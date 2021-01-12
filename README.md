@@ -3,8 +3,8 @@
 ### I'm a High-School Student, Programming lover, Developer, and Amateur musician!!
 
 - 🌱 I’m currently learning 
-  - web development 
-  - algorithms 🤙
+  - web development 🤙
+  - algorithms 
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals: ⚽
   - Learn web development with react and javascript 😄
