@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning 
   - web development 🤙
-  - algorithm 
+  - algorithms
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals: ⚽
   - Learn web development with react and javascript ⚡
