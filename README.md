@@ -50,10 +50,10 @@
   <summary>:zap: Recent GitHub Activity</summary> 
   
 <!-- START_SECTION:activity -->
- 1. ❌ Closed PR [#14](https://github.com/Dorin07/Dorin07/pull/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
+ <!-- 1. ❌ Closed PR [#14](https://github.com/Dorin07/Dorin07/pull/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
  2. 🗣 Commented on [#14](https://github.com/Dorin07/Dorin07/issues/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
  3. ❌ Closed PR [#7](https://github.com/Dorin07/Dorin07/pull/7) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
- 4. 🎉 Merged PR [#6](https://github.com/Dorin07/Dorin07/pull/6) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
+ 4. 🎉 Merged PR [#6](https://github.com/Dorin07/Dorin07/pull/6) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07) -->
 <!-- END_SECTION:activity -->
 
 </details> 
