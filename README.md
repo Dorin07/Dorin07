@@ -46,8 +46,8 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary> 
+<!-- <details>
+  <summary>:zap: Recent GitHub Activity</summary>  -->
   
 <!-- START_SECTION:activity -->
  <!-- 1. ❌ Closed PR [#14](https://github.com/Dorin07/Dorin07/pull/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
@@ -56,7 +56,7 @@
  4. 🎉 Merged PR [#6](https://github.com/Dorin07/Dorin07/pull/6) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07) -->
 <!-- END_SECTION:activity -->
 
-</details> 
+<!-- </details>  -->
 
 <details>
   <summary>:zap: GitHub Stats</summary>
