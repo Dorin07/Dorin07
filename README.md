@@ -61,6 +61,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dorin07&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dorin07&show_icons=true&hide_border=true&theme=dark"/>
 
 </details>
