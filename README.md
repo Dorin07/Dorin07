@@ -3,12 +3,12 @@
 ### I'm a High-School Student, Programming lover, Developer, and Amateur musician!!
 
 - 🌱 I’m currently learning 
-  - web development 🤙
+  - Learn ML and AI 🤓
   - algorithms
+  - web development 🤙
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals: ⚽
   - Learn web development with react and javascript ⚡
-  - Learn ML and AI 🤓
   - Learn embedded with arduino 🤖
   - Improve my software skills 😎 
   - Minimum 1 commit/day 📤
