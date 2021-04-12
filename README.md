@@ -5,13 +5,12 @@
 - 🌱 I’m currently learning 
   - Learn ML and AI 🤓
   - algorithms
-  - web development 🤙
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals: ⚽
+  - web development 🤙
   - Learn web development with react and javascript ⚡
   - Learn embedded with arduino 🤖
   - Improve my software skills 😎 
-  - Minimum 1 commit/day 📤
 - ⚡ I love programming and music 🎺 & 💻
 
 <br />
