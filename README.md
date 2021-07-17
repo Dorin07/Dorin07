@@ -46,20 +46,7 @@
 
 <details>
 
-  <summary>:zap: Recent GitHub Activity</summary> 
-  
-<!-- START_SECTION:activity -->
- 1. ❌ Closed PR [#14](https://github.com/Dorin07/Dorin07/pull/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
- 2. 🗣 Commented on [#14](https://github.com/Dorin07/Dorin07/issues/14) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
- 3. ❌ Closed PR [#7](https://github.com/Dorin07/Dorin07/pull/7) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
- 4. 🎉 Merged PR [#6](https://github.com/Dorin07/Dorin07/pull/6) in [Dorin07/Dorin07](https://github.com/Dorin07/Dorin07)
-<!-- END_SECTION:activity -->
-
-</details> 
-
-<details>
-
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dorin07&show_icons=true&hide_border=true&theme=dark"/>
+  <img align="right" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dorin07&show_icons=true&hide_border=true&theme=dark"/>
 
 </details>
