@@ -3,11 +3,11 @@
 ### I'm a High-School Student, Programming lover, Developer, and Amateur musician!!
 
 - 🌱 I’m currently learning 
-  - Learn ML and AI 🤓
+  - web development 🤙
   - algorithms
 - 👯 I’m looking to improve myself
 - 🥅 2021 Goals: ⚽
-  - web development 🤙
+  - Learn ML and AI 🤓
   - Learn web development with react and javascript ⚡
   - Learn embedded with arduino 🤖
   - Improve my software skills 😎 
