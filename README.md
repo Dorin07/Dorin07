@@ -47,6 +47,6 @@
 <details>
 
   <summary>:zap: GitHub Stats</summary>
-  <img align="right" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dorin07&show_icons=true&hide_border=true&theme=dark"/>
+  <img align="right" alt="Dorin07's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Dorin07&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 </details>
