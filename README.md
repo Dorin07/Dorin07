@@ -1,13 +1,12 @@
 ## Heeey, I'm Dorin - Welcome to my github 👋
 
-### I'm a High-School Student, Programming lover, Developer, and Amateur musician!!
+### I'm a Student at Technical University of Cluj Napoca Computer Science!
 
 - 🌱 I’m currently learning 
   - web development 🤙
   - algorithms
 - 👯 I’m looking to improve myself
-- 🥅 2022 Goals: ⚽
-  - Learn ML and AI 🤓
+- 🥅 2023 Goals: ⚽
   - Learn web development with react and javascript ⚡
   - Learn embedded with arduino 🤖
   - Improve my software skills 😎 
