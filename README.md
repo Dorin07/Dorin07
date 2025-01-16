@@ -6,7 +6,7 @@
   - web development 🤙
   - algorithms
 - 👯 I’m looking to improve myself
-- 🥅 2023 Goals: ⚽
+- 🥅 2025 Goals: ⚽
   - Learn web development with react and javascript ⚡
   - Learn embedded with arduino 🤖
   - Improve my software skills 😎 
